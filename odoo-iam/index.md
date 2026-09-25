@@ -38,8 +38,8 @@ Click **Install App**.
 ![Search and select Odoo records](assets/10-search-records.png)
 ![Choose Read from Odoo](assets/09-read-from-odoo.png)
 ### 2. Create and Update Records
-Choose the **Writeback to Odoo** step to create or update customer records in Odoo.
-1. Select the connection.
+Choose the **Writeback to Odoo** step to create or update customer records in Odoo. 
+1. Select the connection. \
 ![Select the Odoo connection](assets/11-select-connection.png)
 2. Select the fields.
 ![Select Odoo fields](assets/12-select-fields.png)
