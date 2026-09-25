@@ -27,6 +27,7 @@ Click **Install App**.
 - **Database Name:** The target Odoo database name (for example, `mycompany`)
 - **Username:** Your Odoo user account email or username
 - **Password:** Your Odoo user password or API key
+  
 ### Step 3: Grant User Consent
 ![Odoo OAuth consent screen](assets/08-oauth-consent.png)
 - After submitting your login details, review the requested access permissions on the Odoo OAuth Consent Screen and click **Allow Access** to establish the connection.
