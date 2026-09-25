@@ -5,7 +5,7 @@ The Odoo Extension for DocuSign integrates your Odoo ERP database with DocuSign 
 ## How to Install and Configure
 ### Step 1: Locate the Odoo App in DocuSign App Center
 ![Odoo app listing in DocuSign App Center](assets/01-odoo-app-center.png)
-In your DocuSign account, navigate to **App Center** and search for **Odoo** by ePillars Systems. Click **Install App**.
+- In your DocuSign account, navigate to **App Center** and search for **Odoo** by ePillars Systems. Click **Install App**.
 ![Install App action](assets/02-install-app.png)
 ### Step 2: Connect Your Odoo Account
 1. Click **Connect Account**.
