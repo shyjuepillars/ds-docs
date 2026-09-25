@@ -18,7 +18,7 @@ Click **Install App**.
 ![Install and Authorize dialog](assets/04-install-and-authorize.png)
 3. Choose **Private** or **Shared** as the connection type, then click **Next**.
 ![Choose a connection type](assets/05-connection-type.png)
-4. Enter a name for the connection and click **Login**.
+4. Enter a name for the connection and click **Login**. \
 ![Name the connection and log in](assets/06-connection-login.png)
 5. On the next page, enter the Odoo instance login details and click **Submit**.
 ![Enter Odoo instance login details](assets/07-odoo-login-details.png)
