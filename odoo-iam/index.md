@@ -14,9 +14,9 @@ Click **Install App**.
 ### Step 2: Connect Your Odoo Account
 1. Click **Connect Account**.
 ![Connect Account](assets/03-connect-account.png)
-3. Click **Install and Authorize**.
+2. Click **Install and Authorize**.
 ![Install and Authorize dialog](assets/04-install-and-authorize.png)
-4. Choose **Private** or **Shared** as the connection type, then click **Next**.
+3. Choose **Private** or **Shared** as the connection type, then click **Next**.
 ![Choose a connection type](assets/05-connection-type.png)
 5. Enter a name for the connection and click **Login**.
 ![Name the connection and log in](assets/06-connection-login.png)
