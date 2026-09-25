@@ -13,7 +13,7 @@ In your DocuSign account, navigate to **App Center** and search for **Odoo** by 
 Click **Install App**.
 ### Step 2: Connect Your Odoo Account
 1. Click **Connect Account**.
-![Connect Account](assets/03-connect-account.png)
+- ![Connect Account](assets/03-connect-account.png)
 3. Click **Install and Authorize**.
 ![Install and Authorize dialog](assets/04-install-and-authorize.png)
 4. Choose **Private** or **Shared** as the connection type, then click **Next**.
